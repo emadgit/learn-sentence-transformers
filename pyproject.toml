@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "try-sentence-transformers"
+version = "0.1.0"
+description = ""
+authors = ["Emad Dehnavi <dehnavi@gmx.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+torch = "^2.3.0"
+torchvision = "^0.18.0"
+sentence-transformers = "^2.7.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+start = "try_sentence_transformers.main:start"
