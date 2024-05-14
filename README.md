@@ -4,7 +4,7 @@ This project is designed to help you learn and understand sentence transformers 
 
 ## Description
 
-This project uses the power of sentence transformers to analyze and understand the context of various poems. It's a great way to learn about natural language processing and machine learning.
+This project uses the power of sentence transformers. It's a great way to learn about natural language processing and machine learning.
 
 ## Installation
 
