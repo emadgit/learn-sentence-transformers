@@ -25,7 +25,7 @@ Follow these steps to get the project up and running on your local machine:
 
 4. To run the project, use the following command:
     ```
-    poetry install
+    poetry run start
     ```
 
 This will start the application. Follow the on-screen instructions to interact with the project.
