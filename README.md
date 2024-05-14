@@ -12,7 +12,7 @@ Follow these steps to get the project up and running on your local machine:
 
 1. Clone the repository to your local machine:
     ```
-    git clone <repo_url>
+    git clone https://github.com/emadgit/learn-sentence-transformers.git
     ```
 2. Navigate to the project directory:
     ```
